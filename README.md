@@ -1,1 +1,1 @@
- Hello There, I am Umer Mehmood and here is my Portfolio (https://thatoneumer.github.io/My-Portfolio/)                                       
+ Hello There, I am Umer Mehmood, checkout my Portfolio - https://main--umercrusher.netlify.app/
