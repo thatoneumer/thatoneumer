@@ -124,7 +124,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://thatoneumerpk.com">
+<a href="http://thatoneumer.is-a.dev/">
 <img src="https://img.shields.io/badge/Portfolio-FF3B3B?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
@@ -149,16 +149,14 @@ Backend           ████████
 
 # ⚡ Fun Fact
 
-```javascript
 const developer = {
-    name: "YOUR_NAME",
+    name: "Umer Mehmood",
     role: "Full Stack Developer",
     location: "Pakistan 🇵🇰",
     loves: ["React", "Node.js", "MongoDB", "Coffee ☕"],
     currentlyLearning: "Advanced Backend",
     life: "Eat 🍕 Sleep 😴 Code 💻 Repeat 🔁"
 }
-```
 
 ---
 
